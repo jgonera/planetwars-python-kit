@@ -4,3 +4,5 @@ planetwars/*.pyc
 log.txt
 visualizer/generated.htm
 *.bak
+tcp
+MyBot.py
