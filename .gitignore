@@ -2,6 +2,6 @@
 *.class
 *.log
 log.txt
-visualizer/generated.htm
+generated.htm
 *.bak
 MyBot.py
